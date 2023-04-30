@@ -1,0 +1,8 @@
+=== SCHOOL MANAGEMENT SYSTEM ===
+
+Date: 16/08/2022
+Time: 07:03 PM
+
+[1]Roll No: 1, Name: 1, Major: 1, Grade: 1
+[2]Roll No: 2, Name: 2, Major: 2, Grade: 2
+[3]Roll No: 3, Name: 3, Major: 3, Grade: 3
